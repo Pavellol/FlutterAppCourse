@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348778787366",
+    "project_id": "flutter-dc-bda76",
+    "storage_bucket": "flutter-dc-bda76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348778787366:android:ea1bb27551589e5452ace7",
+        "android_client_info": {
+          "package_name": "com.example.desingcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaaHsyjiltkmfjRXHpCYGSS7wT7XHkyec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
